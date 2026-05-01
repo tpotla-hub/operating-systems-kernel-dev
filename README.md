@@ -1,4 +1,4 @@
-# Operating Systems — Linux Kernel Development
+# Operating Systems - Linux Kernel Development
 
 A semester-long kernel development project built as part of CSE330 
 (Operating Systems) at Arizona State University. Starting from compiling 
